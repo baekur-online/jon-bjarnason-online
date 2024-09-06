@@ -1,6 +1,7 @@
 
 ### 2. KAP.
 
+<p>
  Þegar Parmes óx upp með föður sínum, sást það brátt,
         að hann var ólíkur öðrum börnum, sætti hann lítt skemtun,
         var opt einn og sat í þönkum, samt var hann þægur við for-
@@ -15,6 +16,7 @@
         við sverð eða boga og skaut opt dýr í skóginum til matar;
         auðguðust hjónin svo hjer við, að þau seldu brátt bæði feiti
         og skinnavöru, líka tennur og fílabein.
+</p>
 
 Stundum fór Parmes á torg að kaupa matvæli eða hvað
         henta þótti. Um gull eða silfur kvaðst hann ei hirða með-
