@@ -1,4 +1,4 @@
-## Saga af Parmes Loóinbirni. 
+## Saga af Parmes Loðinbirni. 
 ----
 ### 1. KAP.
 FYRIR sunnan Alpesfjöll, sera eru milli Vallands og Frakk-<br/>
