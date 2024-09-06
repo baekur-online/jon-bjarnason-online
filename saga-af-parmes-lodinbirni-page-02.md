@@ -25,4 +25,4 @@ Skáldsögur
 <a href="https://baekur.is/bok/8a06bd5e-320b-4681-8b06-74715121802b">https://baekur.is/bok/8a06bd5e-320b-4681-8b06-74715121802b</a>
 
 Page 2 of 45\
-[Go to page 3 of Saga af Parmes Loðinbirni.](https://baekur-online.github.io/jon-bjarnason-online/saga-af-parmes-loðinbirni-page-03.html)
+[Go to page 3 of Saga af Parmes Loðinbirni.](https://baekur-online.github.io/jon-bjarnason-online/saga-af-parmes-lodinbirni-page-03.html)
