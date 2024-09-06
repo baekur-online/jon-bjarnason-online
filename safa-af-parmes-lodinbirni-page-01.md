@@ -1,0 +1,9 @@
+## Saga af Parmes Loðinbirni.
+
+--------
+
+REYKJAVÍK 1884
+
+PRENTUÐ Í ÍSAFOLDARPRENTSNIÐJU
+
+Á KOSTNAÐ JÓNS SIGHVATSONAR.
