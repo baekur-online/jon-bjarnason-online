@@ -21,6 +21,6 @@ jeg hann muni víða fara um lönd og sjó, en með því vil jeg <br/>
 gleðja yður, að honum mun aldrei hamingjufátt verða“. Að <br/>
 svo mæltu lagði hann hendur yfir barnið og gekk á burt. 
 
-Page 3 of 45
-[Go to page 4 of Saga af Parmes Loðinbirni.](https://baekur-online.github.io/jon-bjarnason-online/saga-af-parmes-lodinbirni-page-04.html)
+Page 3 of 45 <br/>
+[Go to page 4 of Saga af Parmes Loðinbirni.](https://baekur-online.github.io/jon-bjarnason-online/saga-af-parmes-lodinbirni-page-04.html) <br/>
 Go to chapter 2 of Saga af Parmes Loðinbirni.
