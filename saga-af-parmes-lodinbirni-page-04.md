@@ -40,3 +40,7 @@ Eitt sinn kom Parmes úr skógi og hafði skotið 2 bjarn-
         Loðinbjörn, hvað hann ljezt ei heyra ; átti hann tal við marga
         og var það optast við gamla ; þótti þeim hann forvitinn og
         spurull um marga hluti.
+
+        <p>Page 4 of 45</p>
+        <a href="https://baekur-online.github.io/jon-bjarnason-online/saga-af-parmes-lodinbirni-page-05.html">Go to page 5 of Saga af Parmes Loðinbirni.</a><br/>
+        <a href="https://baekur-online.github.io/jon-bjarnason-online/saga-af-parmes-lodinbirni-page-05.html#3-kap">Go to chapter 3 of Saga af Parmes Loðinbirni.</a>
