@@ -1,5 +1,5 @@
 # Jón Bjarnason Online
 
-Magnús Grímsson was a writer born in 1825 who died in 1869.
+Jón bjarnason was born in 1721 who died in 1785.
 
-He authored several books, one of which was titled Kvæði. Buy Kvæði on for your Kindle
+He authored two works. One is called Saga af Parmes loðinbirni.
